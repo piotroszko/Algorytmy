@@ -1,0 +1,2 @@
+# Algorytmy
+uwm@szypulski.it
