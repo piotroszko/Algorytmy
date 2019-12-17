@@ -1,6 +1,8 @@
 # Algorytmy
 uwm@szypulski.it
 
+Zrobić Dijkstry!
+
 Na zaliczanie:
 
 - babelkowe
